@@ -1,12 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-08-01"
-categories: [news]
+title: "Arte y música"
+author: "Isamar Sampayo"
+date: "2024-08-09"
+categories: [Hobbies]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+¡Usar la música y el arte me ayudan a relajarme y poder concentrarme en mis actividades diarias; tambien a regular mis emociones!
 
-![](thumbnail.jpg)
+![](hobbi.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
