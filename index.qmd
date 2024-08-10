@@ -13,45 +13,8 @@ title-block-banner: true
 
 ---
 title: "BIENVENIDO A MI PORTAFOLIO"
-description: "Soy Ingeniera Mecánica egresada de la Universidad Del Norte en el año 2021. Actualmente estoy cursando mi segundo semestre de Maestría en Ingeniería Mecánica en la misma universidad con el fin de investigar en la efectividad de usar mecanismos robóticos para el control de maleza en el cultivo de arroz en Colombia. Tambien trabajo en una empresa Metalmecánica en el departamento de diseño y planimetría.
-
-Me gustan los instrumentos, los idiomas, el arte y la ciencia"
+description: "Soy Ingeniera Mecánica egresada de la Universidad Del Norte en el año 2021. Actualmente estoy cursando mi segundo semestre de Maestría en Ingeniería Mecánica en la misma universidad con el fin de investigar en la efectividad de usar mecanismos robóticos para el control de maleza en el cultivo de arroz en Colombia. Tambien trabajo en una empresa Metalmecánica en el departamento de diseño y planimetría.Me gustan los instrumentos, los idiomas, el arte y la ciencia"
 author: "Isamar Sampayo"
 date: "08/08/2024"
-date-modified: "08/08/2024"
+date-modified: "09/08/2024"
 ---
-
-
----
-title: "myblog"
-listing:
-  # (additional metadata excluded for brevity)
-  categories: true
----
-
-
----
-title: "Resumen de pagina"
-description: "Post description"
-author: "Isamar Sampayo"
-date: "08/08/2024"
-categories:
-  - Proyectos
-  - Certificados
-  - Hobbies
----
-
----
-title: "About"
-image: foto_me.jpg
-about:
-  template: jolla
-  links:
-    - icon: Linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/isamar-sampayo-036276139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
----
-
-## About this blog
-
-This is the contents of the about page for my blog.

@@ -1,19 +1,14 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Contacto"
+image: foto_me.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/isamar-sampayo-036276139/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/IsaE2411
 ---
 
-About this blog

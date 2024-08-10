@@ -3,11 +3,9 @@ title: "Resumen sobre mi"
 author: "Isamar Sampayo"
 date: "2024-08-04"
 categories: [Proyectos, Hobbies]
-image: "image.jpg"
+image: "robots.jpg"
 ---
 
-This is a post with executable code.
+A nivel academico participe en un grupo de investigación en el cual escribimos 3 articulos cientificos relacionados con robotica paralela y robots manejados por cable.
 
-```{r}
-1 + 1
-```
+Por otro lado entre mis hobbies tengo: tocar piano, cantar, ver series coreanas, escribir y pintar en algunas ocasiones. 
